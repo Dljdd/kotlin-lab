@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="Income">+</string>
+    <string name="Expense">-</string>
+    <string name="LogoPlaceholder">DIVINE</string>
+    <string name="expense_history">Expense History</string>
+    <string name="title">Title</string>
+    <string name="cost">Cost</string>
+    <string name="save">Save</string>
+</resources>
